@@ -19,7 +19,7 @@ body {
 }
 
 #main {
-  background-image: url("images/Top Photo.jpeg");
+  background-image: url("Top Photo.jpeg");
   min-height: 70vh;
   background-position: bottom center;
   background-size: cover;
